@@ -1,7 +1,8 @@
 # bet placing
 A skeleton for bet placing handlers
 
-This module is a Skeleton for a Bet Placing handling system
+This module is a Skeleton for a Bet Placing handling system.
+
 It works either by launching a testing script or by interacting with an interface.
 
 # Requirements
@@ -11,6 +12,7 @@ this module requires having a python3 (3.8) and node (>= v14) along with package
 In order to use this module, you have to install some dependencies:
 
 python3 -m pip install -r requirements.txt
+
 npm install
 
 # Usage
