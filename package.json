@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "minimist": "^1.2.5",
+    "redis": "^4.0.0",
+    "request": "^2.88.2",
     "ws": "^8.3.0"
   }
 }
